@@ -1,0 +1,5 @@
+Ilia Slobodchikov - Leonardo Challenge File/
+venv_leo/
+__pycache__/
+*.pyc
+.DS_Store

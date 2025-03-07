@@ -1,0 +1,42 @@
+# Results and outputs
+*_with_similarities.csv
+*_checkpoint.json
+*metrics_*.txt
+output/
+results/
+
+# Common large files
+*.csv
+*.png
+*.jpg
+*.jpeg
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment files
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Git and version control
+.git/
+.github/
+.gitignore
+
+# Logs
+logs/
+*.log
